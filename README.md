@@ -1,68 +1,61 @@
 # 📄 Önéletrajz
 
-## 🧑‍💼 Bemutatkozás
-Helló! Szürke Dániel vagyok, Automatizálási Mérnök Hallgató, lelkesedéssel az IoT, automatizálás, mesterséges intelligencia iránt. Célom, hogy tudásomat fejlesszem és hozzájáruljak innovatív projektekhez.
+## 🧑‍💼 Magamról
+Az Óbudai Egyetem Kandó Kálmán Villamosmérnöki Karán vagyok ötödik féléves hallgató. Tanulmányaimat Műszer-automatika specializáción folytatom szeptembertől. Már kezdő szinten tudom kezelni a grafikus felületű PLC szoftvereket, és folyamatosan bővítem tudásomat az automatizálási rendszerek terén.  
+Mindig is érdekelt a vezérlés-, szabályozás-, irányítástechnika, illetve a PLC-k, így otthon is foglalkozom velük. Csapatban és önállóan egyaránt szeretek dolgozni.
 
 ---
 
 ## 🎓 Tanulmányok
-- **[Iskola neve]** – [Szak/diploma]  
-  *[Kezdési év] – [Befejezési év]*  
-  Rövid ismertetés a tanulmányaidról, például kiemelt tárgyak, projektek, vagy díjak.
+- **Egyetem** | Óbudai Egyetem Kandó Kálmán Villamos Kar  
+  *2022/1 – Jelenleg*  
+  Tanulmányaim megkezdése
 
-- **[Középiskola neve]** – [Tagozat/típus]  
-  *[Kezdési év] – [Befejezési év]*  
-  Itt megemlítheted, ha voltak különleges eredményeid, pl. versenyek vagy kiemelkedő tanulmányok.
+- **BMSZC** | Bolyai János Műszaki Technikum és Kollégium  
+  *2021 – 2022*  
+  Elektronikai technikus OKJ tanfolyam
+
+- **BMSZC** | Bolyai János Műszaki Technikum és Kollégium  
+  *2016 – 2021*  
+  Elektrotechnikai tanulmányok
+
+- **Jókai Mór** | Általános iskola  
+  *2008 – 2016*
 
 ---
 
 ## 💼 Szakmai tapasztalat
-- **[Cég neve]** – [Pozíció]  
-  *[Kezdési év] – [Befejezési év vagy „Jelenleg”]*  
-  - Röviden ismertesd a munkád tartalmát: mit értél el, milyen technológiákat használtál.  
-  - Felsorolásban említs meg 2-3 főbb eredményt.  
-
-- **[Egyéb munkahelyek]** – [Pozíció]  
-  *[Dátum]*  
-  Röviden ismertesd, mit csináltál ott.
+- **Szakmai gyakorlat** | *Radiophonia*  
+  *2019. 06. – 2019. 07.*  
+  - Légvédelmi szirénák dobozainak és elektronikai eszközeinek összerakása
+  - CNC gép kezelése, méretre vágás, mérés, vizsgálat, diagnosztizálás
 
 ---
 
-## 📚 Projektek
-### **1. [Projekt neve]**
-- **Technológiák:** [Pl. Python, C++, HTML/CSS]  
-- **Leírás:** Röviden ismertesd, mit csinált a projekt, és mi volt a cél.  
-- **Link:** [GitHub repository link vagy demo oldal]
-
-### **2. [Projekt neve]**
-- **Technológiák:** [Pl. JavaScript, Node.js, SQL]  
-- **Leírás:** Rövid projektleírás.  
+## 📚 Egyéb ismeretek
+- **MS Office**: Excel, Word, PowerPoint, Outlook (felhasználói szint)  
+- **Jogosítvány**: "B" kategóriás, megszerezve 2020. január
 
 ---
 
-## 🏆 Eredmények és díjak
-- **[Díj neve]** – Röviden ismertesd, miért kaptad a díjat.  
-- **Versenyek:** [Pl. Hackathon helyezések, szakmai versenyek.]  
+## 🌍 Nyelvismeret
+- **Angol**: Középfokú, aktív "B2" típusú nyelvvizsga (2018, TELC)
 
 ---
 
-## 🛠️ Készségek
-- **Programozási nyelvek:** [Pl. Python, Java, C++]  
-- **Technológiák:** [Pl. Git, Docker, REST API-k, IoT eszközök]  
-- **Soft skillek:** [Pl. csapatmunka, kommunikáció, problémamegoldás]  
+## 🛠️ Szakmai ismeretek
+- Elektronikai áramkörök hibakeresésében és javításában szerzett 4 év gyakorlat  
+- Elektronikai alkatrészek, mérőműszerek magas szintű ismerete  
+- Elektronikai áramkörök hibakeresésében és javításában való jártasság  
+- Haladó szintű **C**, alapszintű **Assembly** és **Python** ismeret  
+- Számos PLC szoftver alapszintű ismerete (TIA Portal, CX-Programmer, Xlogic, Xladder, Zelio Soft)  
+- Áramkör tervezés (kapcsolási rajz- és nyomtatott áramkör készítés)  
+- Kapcsolási rajzok készségszintű olvasásának képessége  
+- Megbízható kézi forrasztás tudás
 
 ---
 
 ## 📫 Kapcsolat
-- **E-mail:** []  
-- **LinkedIn:**
-- **GitHub:**  
-
----
-
-## 🎯 Céljaim
-Egy rövid bekezdés, amely leírja, mit szeretnél elérni a karrieredben, és mi motivál.
-
----
-
-Köszönöm, hogy megnézted az önéletrajzomat! Ha további kérdésed van, vagy együttműködnél velem, keress bátran! 😊
+- **E-mail**: email@example.com  
+- **GitHub**: [https://github.com/felhasznalo](https://github.com/felhasznalo)  
+- **LinkedIn**: [https://linkedin.com/in/felhasznalo](https://linkedin.com/in/felhasznalo)
