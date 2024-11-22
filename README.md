@@ -7,62 +7,63 @@ Az Óbudai Egyetem Kandó Kálmán Villamosmérnöki Karán vagyok ötödik fél
 
 ---
 
-## 🎓 Tanulmányok
-- **Egyetem**: Óbudai Egyetem Kandó Kálmán Villamos Kar (2022/1 – jelenleg)
-- **BMSZC**: Bolyai János Műszaki Technikum és Kollégium
-  - 2021 – 2022: Elektronikai technikus OKJ tanfolyam
-  - 2016 – 2021: Elektrotechnikai tanulmányok
-- **Jókai Mór**: Általános iskola (2008 – 2016)
-
----
-
-## 💼 Szakmai tapasztalat
-- **Szakmai gyakorlat**: Radiophonia (2019. 06. – 2019. 07.)
-  - Feladatok: Légvédelmi szirénák dobozainak összeszerelése, elektronikai diagnosztizálás, CNC gépkezelés, mérések.
-
----
-
-## 🛠 Szakmai ismeretek
-- Elektronikai áramkörök hibakeresésében, javításában szerzett gyakorlat
-- Elektronikai alkatrészek ismerete, kapcsolási rajzok készítése
-- Haladó szintű C++, Assembly és Python
-- Számos PLC szoftver alapszintű ismerete (TIA Portal, CX-Programmer, Xlogic)
-
----
-
-## 📂 Projektek
 <details>
-  <summary><strong>Projekt 1</strong></summary>
-  <p><strong>Projekt neve:</strong> Automata Rendszer Szimuláció<br>
-  <strong>Leírás:</strong> Egy automatizált folyamatot modellező szimuláció fejlesztése PLC segítségével.</p>
+  <summary style="font-size: 1.2em;"><strong>🎓 Tanulmányok</strong></summary>
+  <ul>
+    <li><strong>Egyetem:</strong> Óbudai Egyetem Kandó Kálmán Villamos Kar (2022/1 – jelenleg)</li>
+    <li><strong>BMSZC:</strong> Bolyai János Műszaki Technikum és Kollégium
+      <ul>
+        <li>2021 – 2022: Elektronikai technikus OKJ tanfolyam</li>
+        <li>2016 – 2021: Elektrotechnikai tanulmányok</li>
+      </ul>
+    </li>
+    <li><strong>Jókai Mór:</strong> Általános iskola (2008 – 2016)</li>
+  </ul>
 </details>
 
 <details>
-  <summary><strong>Projekt 2</strong></summary>
-  <p><strong>Projekt neve:</strong> Adatgyűjtő rendszer Pythonban<br>
-  <strong>Leírás:</strong> Egy adatgyűjtő rendszer tervezése és implementálása Raspberry Pi-vel.</p>
+  <summary style="font-size: 1.2em;"><strong>💼 Szakmai tapasztalat</strong></summary>
+  <ul>
+    <li><strong>Szakmai gyakorlat:</strong> Radiophonia (2019. 06. – 2019. 07.)
+      <br>Feladatok: Légvédelmi szirénák dobozainak összeszerelése, elektronikai diagnosztizálás, CNC gépkezelés, mérések.
+    </li>
+  </ul>
 </details>
 
 <details>
-  <summary><strong>Projekt 3</strong></summary>
-  <p><strong>Projekt neve:</strong> CNC vezérlés<br>
-  <strong>Leírás:</strong> CNC gépek automatizált vezérlésének és diagnosztizálásának kidolgozása.</p>
+  <summary style="font-size: 1.2em;"><strong>🛠 Szakmai ismeretek</strong></summary>
+  <ul>
+    <li>Elektronikai áramkörök hibakeresésében, javításában szerzett gyakorlat</li>
+    <li>Elektronikai alkatrészek ismerete, kapcsolási rajzok készítése</li>
+    <li>Haladó szintű C++, Assembly és Python</li>
+    <li>Számos PLC szoftver alapszintű ismerete (TIA Portal, CX-Programmer, Xlogic)</li>
+  </ul>
 </details>
 
 <details>
-  <summary><strong>Projekt 4</strong></summary>
-  <p><strong>Projekt neve:</strong> Smart Home rendszer<br>
-  <strong>Leírás:</strong> Egy IoT alapú otthoni automatizálási rendszer fejlesztése.</p>
-</details>
-
-<details>
-  <summary><strong>Projekt 5</strong></summary>
-  <p><strong>Projekt neve:</strong> Elektronikus hibadetektáló eszköz<br>
-  <strong>Leírás:</strong> Eszköz tervezése elektronikai áramkörök hibáinak azonosítására.</p>
-</details>
-
-<details>
-  <summary><strong>Projekt 6</strong></summary>
-  <p><strong>Projekt neve:</strong> Ipari robot vezérlése<br>
-  <strong>Leírás:</strong> Egy ipari robot kar vezérlési logikájának kidolgozása PLC segítségével.</p>
+  <summary style="font-size: 1.2em;"><strong>📂 Projektek</strong></summary>
+  <details>
+    <summary style="font-size: 1.1em;">⚙️ <strong>Projekt 1: Automata Rendszer Szimuláció</strong></summary>
+    <p>Egy automatizált folyamatot modellező szimuláció fejlesztése PLC segítségével.</p>
+  </details>
+  <details>
+    <summary style="font-size: 1.1em;">🔗 <strong>Projekt 2: Adatgyűjtő rendszer Pythonban</strong></summary>
+    <p>Egy adatgyűjtő rendszer tervezése és implementálása Raspberry Pi-vel.</p>
+  </details>
+  <details>
+    <summary style="font-size: 1.1em;">🛠️ <strong>Projekt 3: CNC vezérlés</strong></summary>
+    <p>CNC gépek automatizált vezérlésének és diagnosztizálásának kidolgozása.</p>
+  </details>
+  <details>
+    <summary style="font-size: 1.1em;">🏡 <strong>Projekt 4: Smart Home rendszer</strong></summary>
+    <p>Egy IoT alapú otthoni automatizálási rendszer fejlesztése.</p>
+  </details>
+  <details>
+    <summary style="font-size: 1.1em;">🔧 <strong>Projekt 5: Elektronikus hibadetektáló eszköz</strong></summary>
+    <p>Eszköz tervezése elektronikai áramkörök hibáinak azonosítására.</p>
+  </details>
+  <details>
+    <summary style="font-size: 1.1em;">🤖 <strong>Projekt 6: Ipari robot vezérlése</strong></summary>
+    <p>Egy ipari robot kar vezérlési logikájának kidolgozása PLC segítségével.</p>
+  </details>
 </details>
