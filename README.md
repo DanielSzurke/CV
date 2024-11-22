@@ -1,5 +1,5 @@
 # 📄 Önéletrajz
-
+![Profilkép](./profile.jpg)
 ## 🧑‍💼 Magamról
 Az Óbudai Egyetem Kandó Kálmán Villamosmérnöki Karán vagyok ötödik féléves hallgató. Tanulmányaimat Műszer-automatika specializáción folytatom szeptembertől. Már kezdő szinten tudom kezelni a grafikus felületű PLC szoftvereket, és folyamatosan bővítem tudásomat az automatizálási rendszerek terén.  
 Mindig is érdekelt a vezérlés-, szabályozás-, irányítástechnika, illetve a PLC-k, így otthon is foglalkozom velük. Csapatban és önállóan egyaránt szeretek dolgozni.
