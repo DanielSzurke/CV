@@ -1,7 +1,5 @@
 # Önéletrajzom
 
-<img src="./profile.jpg" alt="Profilkép" width="150">
-
 ## Magamról
 Az Óbudai Egyetem Kandó Kálmán Villamosmérnöki Karán vagyok ötödik féléves hallgató. Tanulmányaimat Műszer-automatika specializáción folytatom szeptembertől. Már kezdő szinten tudom kezelni a grafikus felületű PLC szoftvereket és folyamatosan bővítem tudásomat az automatizálási rendszerek terén. Mindig is érdekelt a vezérlés-, szabályozás-, irányítástechnika, illetve a PLC-k, így otthon is foglalkozom velük. Csapatban és önállóan egyaránt szeretek dolgozni.
 
@@ -12,6 +10,33 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
 Ökológikus műszaki konstrukciók, AI, agrárkultúra, gazdaság.
 
 ---
+<details>
+  <summary style="font-size: 1.2em;"><strong>📂 Projektek</strong></summary>
+  <details>
+    <summary style="font-size: 1.1em;">⚙️ <strong>Projekt 1: Automata Rendszer Szimuláció</strong></summary>
+    <p>Egy automatizált folyamatot modellező szimuláció fejlesztése PLC segítségével.</p>
+  </details>
+  <details>
+    <summary style="font-size: 1.1em;">🔗 <strong>Projekt 2: Adatgyűjtő rendszer Pythonban</strong></summary>
+    <p>Egy adatgyűjtő rendszer tervezése és implementálása Raspberry Pi-vel.</p>
+  </details>
+  <details>
+    <summary style="font-size: 1.1em;">🛠️ <strong>Projekt 3: CNC vezérlés</strong></summary>
+    <p>CNC gépek automatizált vezérlésének és diagnosztizálásának kidolgozása.</p>
+  </details>
+  <details>
+    <summary style="font-size: 1.1em;">🏡 <strong>Projekt 4: Smart Home rendszer</strong></summary>
+    <p>Egy IoT alapú otthoni automatizálási rendszer fejlesztése.</p>
+  </details>
+  <details>
+    <summary style="font-size: 1.1em;">🔧 <strong>Projekt 5: Elektronikus hibadetektáló eszköz</strong></summary>
+    <p>Eszköz tervezése elektronikai áramkörök hibáinak azonosítására.</p>
+  </details>
+  <details>
+    <summary style="font-size: 1.1em;">🤖 <strong>Projekt 6: Ipari robot vezérlése</strong></summary>
+    <p>Egy ipari robot kar vezérlési logikájának kidolgozása PLC segítségével.</p>
+  </details>
+</details>
 
 <details>
   <summary style="font-size: 1.2em;"><strong>🎓 Tanulmányok</strong></summary>
@@ -44,32 +69,4 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
     <li>Haladó szintű C++, Assembly és Python</li>
     <li>Számos PLC szoftver alapszintű ismerete (TIA Portal, CX-Programmer, Xlogic)</li>
   </ul>
-</details>
-
-<details>
-  <summary style="font-size: 1.2em;"><strong>📂 Projektek</strong></summary>
-  <details>
-    <summary style="font-size: 1.1em;">⚙️ <strong>Projekt 1: Automata Rendszer Szimuláció</strong></summary>
-    <p>Egy automatizált folyamatot modellező szimuláció fejlesztése PLC segítségével.</p>
-  </details>
-  <details>
-    <summary style="font-size: 1.1em;">🔗 <strong>Projekt 2: Adatgyűjtő rendszer Pythonban</strong></summary>
-    <p>Egy adatgyűjtő rendszer tervezése és implementálása Raspberry Pi-vel.</p>
-  </details>
-  <details>
-    <summary style="font-size: 1.1em;">🛠️ <strong>Projekt 3: CNC vezérlés</strong></summary>
-    <p>CNC gépek automatizált vezérlésének és diagnosztizálásának kidolgozása.</p>
-  </details>
-  <details>
-    <summary style="font-size: 1.1em;">🏡 <strong>Projekt 4: Smart Home rendszer</strong></summary>
-    <p>Egy IoT alapú otthoni automatizálási rendszer fejlesztése.</p>
-  </details>
-  <details>
-    <summary style="font-size: 1.1em;">🔧 <strong>Projekt 5: Elektronikus hibadetektáló eszköz</strong></summary>
-    <p>Eszköz tervezése elektronikai áramkörök hibáinak azonosítására.</p>
-  </details>
-  <details>
-    <summary style="font-size: 1.1em;">🤖 <strong>Projekt 6: Ipari robot vezérlése</strong></summary>
-    <p>Egy ipari robot kar vezérlési logikájának kidolgozása PLC segítségével.</p>
-  </details>
 </details>
