@@ -42,13 +42,13 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
   <summary style="font-size: 1.2em;"><strong>🎓 Tanulmányok</strong></summary>
   <ul>
     <li><strong>Egyetem:</strong> Óbudai Egyetem Kandó Kálmán Villamos Kar (2022/1 – jelenleg)</li>
-    <li><strong>BMSZC:</strong> Bolyai János Műszaki Technikum és Kollégium
+    <li><strong>Szakközépiskola:</strong> Bolyai János Műszaki Technikum és Kollégium
       <ul>
         <li>2021 – 2022: Elektronikai technikus OKJ tanfolyam</li>
         <li>2016 – 2021: Elektrotechnikai tanulmányok</li>
       </ul>
     </li>
-    <li><strong>Jókai Mór:</strong> Általános iskola (2008 – 2016)</li>
+    <li><strong>Általános Iskola:</strong> Jókai Mór Általános iskola (2008 – 2016)</li>
   </ul>
 </details>
 
