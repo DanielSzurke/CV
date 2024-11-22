@@ -1,9 +1,15 @@
-# 📄 Önéletrajz
+# Önéletrajzom
 
 <img src="./profile.jpg" alt="Profilkép" width="150">
 
-## 🧑‍💼 Magamról
+## Magamról
 Az Óbudai Egyetem Kandó Kálmán Villamosmérnöki Karán vagyok ötödik féléves hallgató. Tanulmányaimat Műszer-automatika specializáción folytatom szeptembertől. Már kezdő szinten tudom kezelni a grafikus felületű PLC szoftvereket és folyamatosan bővítem tudásomat az automatizálási rendszerek terén. Mindig is érdekelt a vezérlés-, szabályozás-, irányítástechnika, illetve a PLC-k, így otthon is foglalkozom velük. Csapatban és önállóan egyaránt szeretek dolgozni.
+
+## Céljaim
+Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, mivel hivatásomnak tekintem ezt a szakmát. Ideálisan 20-24 órát tudnék dolgozni egyetem mellett, programozófelületek közül a TIA Portal-t preferálom.
+
+## Egyéb érdeklődéseim
+Ökológikus műszaki konstrukciók, AI, agrárkultúra, gazdaság.
 
 ---
 
