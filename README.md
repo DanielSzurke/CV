@@ -7,7 +7,7 @@ Az Óbudai Egyetem Kandó Kálmán Villamosmérnöki Karán vagyok ötödik fél
 Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, mivel hivatásomnak tekintem ezt a szakmát. Ideálisan 20-24 órát tudnék dolgozni egyetem mellett, programozófelületek közül a TIA Portal-t preferálom.
 
 ## Egyéb érdeklődéseim
-Ökológikus műszaki konstrukciók, AI, agrárkultúra, gazdaság.
+Ökológikus műszaki konstrukciók, agrárkultúra, gazdaság, AI, tech, Tesla, SpaceX.
 
 ---
 <details>
