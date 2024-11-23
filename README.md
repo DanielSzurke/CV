@@ -43,22 +43,22 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
 <br>
 
 <details>
-  <summary style="font-size: 1.2em;"><strong>💼KATT IDE:  Szakmai tapasztalat</strong></summary>
+  <summary style="font-size: 1.2em;"><strong>🛠KATT IDE:  Szakmai ismeretek</strong></summary>
   <ul>
-    <li><strong>Szakmai gyakorlat:</strong> Radiophonia (2019. 06. – 2019. 07.)
-      <br>Feladatok: Légvédelmi szirénák dobozainak összeszerelése, elektronikai diagnosztizálás, CNC gépkezelés, mérések.
-    </li>
+    <li>Elektronikai alkatrészek ismerete, kapcsolási rajzok- és áramkörök készítése</li>
+    <li>Elektronikai áramkörök hibakeresésében, javításában szerzett gyakorlat</li>
+    <li>Haladó szintű C++, Assembly és Python</li>
+    <li>Számos PLC szoftver alapszintű ismerete (TIA Portal, CX-Programmer, e!Cockpit, Zelio, Xlogic)</li>
   </ul>
 </details>
 
 <br>
 
 <details>
-  <summary style="font-size: 1.2em;"><strong>🛠KATT IDE:  Szakmai ismeretek</strong></summary>
+  <summary style="font-size: 1.2em;"><strong>💼KATT IDE:  Szakmai tapasztalat</strong></summary>
   <ul>
-    <li>Elektronikai áramkörök hibakeresésében, javításában szerzett gyakorlat</li>
-    <li>Elektronikai alkatrészek ismerete, kapcsolási rajzok készítése</li>
-    <li>Haladó szintű C++, Assembly és Python</li>
-    <li>Számos PLC szoftver alapszintű ismerete (TIA Portal, CX-Programmer, Xlogic)</li>
+    <li><strong>Szakmai gyakorlat:</strong> Radiophonia (2019. 06. – 2019. 07.)
+      <br>Feladatok: Légvédelmi szirénák dobozainak összeszerelése, elektronikai diagnosztizálás, CNC gépkezelés, mérések.
+    </li>
   </ul>
 </details>
