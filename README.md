@@ -13,7 +13,7 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
 
 ---
 <details>
-  <summary style="font-size: 1.2em;"><strong>📂 Projektek</strong></summary>
+  <summary style="font-size: 1.2em;"><strong>📂 KATT IDE: Projektek</strong></summary>
   <details>
     <summary style="font-size: 1.1em;">⚙️ <strong>Projekt 1: Automata Rendszer Szimuláció</strong></summary>
     <p>Karácsonyfadíszek ellenőrzése. Egy rekeszben 4 dísz, ha 0 vagy 4 darab piros színű jutott, akkor rossz a csomag, különben jó. 
@@ -45,7 +45,7 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
 </details>
 
 <details>
-  <summary style="font-size: 1.2em;"><strong>🎓 Tanulmányok</strong></summary>
+  <summary style="font-size: 1.2em;"><strong>🎓KATT IDE:  Tanulmányok</strong></summary>
   <ul>
     <li><strong>Egyetem:</strong> Óbudai Egyetem Kandó Kálmán Villamos Kar (2022/1 – jelenleg)</li>
     <li><strong>Szakközépiskola:</strong> Bolyai János Műszaki Technikum és Kollégium
@@ -59,7 +59,7 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
 </details>
 
 <details>
-  <summary style="font-size: 1.2em;"><strong>💼 Szakmai tapasztalat</strong></summary>
+  <summary style="font-size: 1.2em;"><strong>💼KATT IDE:  Szakmai tapasztalat</strong></summary>
   <ul>
     <li><strong>Szakmai gyakorlat:</strong> Radiophonia (2019. 06. – 2019. 07.)
       <br>Feladatok: Légvédelmi szirénák dobozainak összeszerelése, elektronikai diagnosztizálás, CNC gépkezelés, mérések.
@@ -68,7 +68,7 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
 </details>
 
 <details>
-  <summary style="font-size: 1.2em;"><strong>🛠 Szakmai ismeretek</strong></summary>
+  <summary style="font-size: 1.2em;"><strong>🛠KATT IDE:  Szakmai ismeretek</strong></summary>
   <ul>
     <li>Elektronikai áramkörök hibakeresésében, javításában szerzett gyakorlat</li>
     <li>Elektronikai alkatrészek ismerete, kapcsolási rajzok készítése</li>
