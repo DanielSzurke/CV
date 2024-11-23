@@ -1,4 +1,4 @@
-# Önéletrajzom
+# Szürke Dániel
 
 ## Magamról
 Az Óbudai Egyetem Kandó Kálmán Villamosmérnöki Karán vagyok ötödik féléves hallgató. Tanulmányaimat Műszer-automatika specializáción folytatom szeptembertől. Már kezdő szinten tudom kezelni a grafikus felületű PLC szoftvereket és folyamatosan bővítem tudásomat az automatizálási rendszerek terén. Mindig is érdekelt a vezérlés-, szabályozás-, irányítástechnika, illetve a PLC-k, így otthon is foglalkozom velük. Csapatban és önállóan egyaránt szeretek dolgozni.
@@ -14,9 +14,9 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
   <summary style="font-size: 1.2em;"><strong>📂 Projektek</strong></summary>
   <details>
     <summary style="font-size: 1.1em;">⚙️ <strong>Projekt 1: Automata Rendszer Szimuláció</strong></summary>
-    <p>Egy automatizált folyamatot modellező szimuláció fejlesztése PLC segítségével.</p>
-    <iframe src="./karacsonyfadisz_feladat.pdf" width="100%" height="600px">
-    A böngésződ nem támogatja a PDF-ek megjelenítését. Kattints <a href="./karacsonyfadisz_feladat.pdf">ide</a> a letöltéshez.
+    <p>Karácsonyfadíszek ellenőrzése. Egy rekeszben 4 dísz, ha 0 vagy 4 darab piros színű jutott, akkor rossz a csomag, különben jó. 
+    Tömbfeltöltés FIFO módszerrel, állapotjelzés 4 díszenként.</p>
+    ./karacsonyfadisz_feladat.pdf
   </iframe>
   </details>
   <details>
