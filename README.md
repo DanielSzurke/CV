@@ -16,7 +16,7 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
     <summary style="font-size: 1.1em;">⚙️ <strong>Projekt 1: Automata Rendszer Szimuláció</strong></summary>
     <p>Karácsonyfadíszek ellenőrzése. Egy rekeszben 4 dísz, ha 0 vagy 4 darab piros színű jutott, akkor rossz a csomag, különben jó. 
     Tömbfeltöltés FIFO módszerrel, állapotjelzés 4 díszenként.</p>
-    ./karacsonyfadisz_feladat.pdf
+    /karacsonyfadisz_feladat.pdf
   </details>
   <details>
     <summary style="font-size: 1.1em;">🔗 <strong>Projekt 2: Adatgyűjtő rendszer Pythonban</strong></summary>
