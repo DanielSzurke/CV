@@ -24,6 +24,8 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
   </details>
 </details>
 
+<br>
+
 <details>
   <summary style="font-size: 1.2em;"><strong>🎓KATT IDE:  Tanulmányok</strong></summary>
   <ul>
@@ -38,6 +40,8 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
   </ul>
 </details>
 
+<br>
+
 <details>
   <summary style="font-size: 1.2em;"><strong>💼KATT IDE:  Szakmai tapasztalat</strong></summary>
   <ul>
@@ -46,6 +50,8 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
     </li>
   </ul>
 </details>
+
+<br>
 
 <details>
   <summary style="font-size: 1.2em;"><strong>🛠KATT IDE:  Szakmai ismeretek</strong></summary>
