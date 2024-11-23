@@ -1,4 +1,6 @@
 title: Szürke Dániel
+description: Önéletrajz
+show_downloads: [false]
 logo: ./profile.jpg
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
