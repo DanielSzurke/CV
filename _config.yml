@@ -1,7 +1,7 @@
 title: Szürke Dániel
 header_image: ./profile.jpg
 header_image_size: contain
-description: Önéletrajz
+description: Önéletrajz és Projekt könyvtár
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
