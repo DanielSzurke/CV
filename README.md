@@ -13,7 +13,7 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
 
 ---
 <details>
-  <summary style="font-size: 1.2em;"><strong>📂 KATT IDE: Projektek</strong></summary>
+  <summary style="font-size: 1.2em;"><strong>📂KATT IDE:  Projektek</strong></summary>
   <details>
     <summary style="font-size: 1.1em;">⚙️ <strong>Projekt 1: Automata Rendszer Szimuláció</strong></summary>
     <p>Karácsonyfadíszek ellenőrzése. Egy rekeszben 4 dísz, ha 0 vagy 4 darab piros színű jutott, akkor rossz a csomag, különben jó. 
