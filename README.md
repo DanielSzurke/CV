@@ -15,6 +15,9 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
   <details>
     <summary style="font-size: 1.1em;">⚙️ <strong>Projekt 1: Automata Rendszer Szimuláció</strong></summary>
     <p>Egy automatizált folyamatot modellező szimuláció fejlesztése PLC segítségével.</p>
+    <iframe src="./karacsonyfadisz_feladat.pdf" width="100%" height="600px">
+    A böngésződ nem támogatja a PDF-ek megjelenítését. Kattints <a href="./karacsonyfadisz_feladat.pdf">ide</a> a letöltéshez.
+  </iframe>
   </details>
   <details>
     <summary style="font-size: 1.1em;">🔗 <strong>Projekt 2: Adatgyűjtő rendszer Pythonban</strong></summary>
