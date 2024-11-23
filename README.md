@@ -15,32 +15,12 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
 <details>
   <summary style="font-size: 1.2em;"><strong>📂KATT IDE:  Projektek</strong></summary>
   <details>
-    <summary style="font-size: 1.1em;">⚙️ <strong>Projekt 1: Automata Rendszer Szimuláció</strong></summary>
+    <summary style="font-size: 1.1em;">⚙️ <strong>Projekt 1: Automata Csomag Ellenörző</strong></summary>
     <p>Karácsonyfadíszek ellenőrzése. Egy rekeszben 4 dísz, ha 0 vagy 4 darab piros színű jutott, akkor rossz a csomag, különben jó. 
     Tömbfeltöltés FIFO módszerrel, állapotjelzés 4 díszenként.</p>
     <iframe src="./karacsonyfadisz_feladat.pdf" width="100%" height="600px">
     A böngésződ nem támogatja a PDF-ek megjelenítését. Kattints <a href="./karacsonyfadisz_feladat.pdf">ide</a> a letöltéshez.
   </iframe>
-  </details>
-  <details>
-    <summary style="font-size: 1.1em;">🔗 <strong>Projekt 2: Adatgyűjtő rendszer Pythonban</strong></summary>
-    <p>Egy adatgyűjtő rendszer tervezése és implementálása Raspberry Pi-vel.</p>
-  </details>
-  <details>
-    <summary style="font-size: 1.1em;">🛠️ <strong>Projekt 3: CNC vezérlés</strong></summary>
-    <p>CNC gépek automatizált vezérlésének és diagnosztizálásának kidolgozása.</p>
-  </details>
-  <details>
-    <summary style="font-size: 1.1em;">🏡 <strong>Projekt 4: Smart Home rendszer</strong></summary>
-    <p>Egy IoT alapú otthoni automatizálási rendszer fejlesztése.</p>
-  </details>
-  <details>
-    <summary style="font-size: 1.1em;">🔧 <strong>Projekt 5: Elektronikus hibadetektáló eszköz</strong></summary>
-    <p>Eszköz tervezése elektronikai áramkörök hibáinak azonosítására.</p>
-  </details>
-  <details>
-    <summary style="font-size: 1.1em;">🤖 <strong>Projekt 6: Ipari robot vezérlése</strong></summary>
-    <p>Egy ipari robot kar vezérlési logikájának kidolgozása PLC segítségével.</p>
   </details>
 </details>
 
