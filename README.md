@@ -29,6 +29,13 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
     A böngésződ nem támogatja a PDF-ek megjelenítését. Kattints <a href="./felautomata_merleg_feladat.pdf">ide</a> a letöltéshez.
   </iframe>
   </details>
+    <details>
+    <summary style="font-size: 1.1em;">☕ <strong>Projekt 3: Parametrikus kávéfőzőgép</strong></summary>
+    <p>Parametrizált megoldás, arra az esetre ha változtatni szeretnénk a kávé főzésén, vagy újféle kávét szeretnénk hozzá adni a palettához.</p>
+    <iframe src="./parametrikus_kavefozo.pdf" width="100%" height="600px">
+    A böngésződ nem támogatja a PDF-ek megjelenítését. Kattints <a href="./parametrikus_kavefozo.pdf">ide</a> a letöltéshez.
+  </iframe>
+  </details>
 </details>
         
 <br>
