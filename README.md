@@ -26,7 +26,7 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
     <summary style="font-size: 1.1em;">📊 <strong>Projekt 2: Félautomata mérleg</strong></summary>
     <p>4 Mért érték tárolása, és visszajelzés mozgó átlag alapján. Ha az átlag <0.8 vagy >1.2 akkor nem megfelelő, ezért a 4 következő értékig piros visszajelzés, és nem történik kiértékelés. Tömbfeltöltés FIFO módszerrel, potméter skálázás és beolvasás.</p>
     <iframe src="./karacsonyfadisz_feladat.pdf" width="100%" height="600px">
-    A böngésződ nem támogatja a PDF-ek megjelenítését. Kattints <a href="./felautomata_merleg.pdf">ide</a> a letöltéshez.
+    A böngésződ nem támogatja a PDF-ek megjelenítését. Kattints <a href="./felautomata_merleg_feladat.pdf">ide</a> a letöltéshez.
   </iframe>
   </details>
 </details>
