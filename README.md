@@ -30,7 +30,7 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
   </iframe>
   </details>
 </details>
-
+        
 <br>
 
 <details>
