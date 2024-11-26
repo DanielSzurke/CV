@@ -63,6 +63,7 @@ Szeretnék minél többet tanulni és minél komolyabb projekteken dolgozni, miv
     <li>Elektronikai áramkörök hibakeresésében, javításában szerzett gyakorlat</li>
     <li>Haladó szintű C++, Assembly és Python</li>
     <li>Számos PLC szoftver alapszintű ismerete (TIA Portal, CX-Programmer, e!Cockpit, Zelio, Xlogic)</li>
+    <li>P&ID olvasása, és a diagramban szereplő berendezések ismerete</li>
   </ul>
 </details>
 
